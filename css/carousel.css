@@ -1,0 +1,537 @@
+/* end  */
+
+#amili-carousel {
+  padding: 0 10px 30px 10px;
+  margin-top: 30px;
+}
+
+/* Control buttons  */
+#amili-carousel .carousel-control {
+  background: none;
+  color: #222;
+  font-size: 2.3em;
+  text-shadow: none;
+  margin-top: 30px;
+}
+/* Previous button  */
+#amili-carousel .carousel-control.left {
+  left: -12px;
+}
+/* Next button  */
+#amili-carousel .carousel-control.right {
+  right: -12px !important;
+}
+/* Changes the position of the indicators */
+#amili-carousel .carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the color of the indicators */
+#amili-carousel .carousel-indicators li {
+  background: #c0c0c0;
+}
+#amili-carousel .carousel-indicators .active {
+  background: #333333;
+}
+#amili-carousel img {
+  width: 250px;
+  height: 100px;
+}
+
+@media (min-width: 768px) {
+  #amili-carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+  #amili-carousel .carousel-indicators {
+    bottom: -20px !important;
+  }
+  #amili-carousel .carousel-indicators li {
+    display: inline-block;
+    margin: 0px 5px;
+    width: 15px;
+    height: 15px;
+  }
+  #amili-carousel .carousel-indicators li.active {
+    margin: 0px 5px;
+    width: 20px;
+    height: 20px;
+  }
+}
+
+#aria-carousel {
+  padding: 0 10px 30px 10px;
+  margin-top: 30px;
+}
+
+/* Control buttons  */
+#aria-carousel .carousel-control {
+  background: none;
+  color: #222;
+  font-size: 2.3em;
+  text-shadow: none;
+  margin-top: 30px;
+}
+/* Previous button  */
+#aria-carousel .carousel-control.left {
+  left: -12px;
+}
+/* Next button  */
+#aria-carousel .carousel-control.right {
+  right: -12px !important;
+}
+/* Changes the position of the indicators */
+#aria-carousel .carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the color of the indicators */
+#aria-carousel .carousel-indicators li {
+  background: #c0c0c0;
+}
+#aria-carousel .carousel-indicators .active {
+  background: #333333;
+}
+#aria-carousel img {
+  width: 250px;
+  height: 100px;
+}
+
+@media (min-width: 768px) {
+  #aria-carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+  #aria-carousel .carousel-indicators {
+    bottom: -20px !important;
+  }
+  #aria-carousel .carousel-indicators li {
+    display: inline-block;
+    margin: 0px 5px;
+    width: 15px;
+    height: 15px;
+  }
+  #aria-carousel .carousel-indicators li.active {
+    margin: 0px 5px;
+    width: 20px;
+    height: 20px;
+  }
+}
+
+#birmingham-carousel {
+  padding: 0 10px 30px 10px;
+  margin-top: 30px;
+}
+
+/* Control buttons  */
+#birmingham-carousel .carousel-control {
+  background: none;
+  color: #222;
+  font-size: 2.3em;
+  text-shadow: none;
+  margin-top: 30px;
+}
+/* Previous button  */
+#birmingham-carousel .carousel-control.left {
+  left: -12px;
+}
+/* Next button  */
+#birmingham-carousel .carousel-control.right {
+  right: -12px !important;
+}
+/* Changes the position of the indicators */
+#birmingham-carousel .carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the color of the indicators */
+#birmingham-carousel .carousel-indicators li {
+  background: #c0c0c0;
+}
+#birmingham-carousel .carousel-indicators .active {
+  background: #333333;
+}
+#birmingham-carousel img {
+  width: 250px;
+  height: 100px;
+}
+
+@media (min-width: 768px) {
+  #birmingham-carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+  #birmingham-carousel .carousel-indicators {
+    bottom: -20px !important;
+  }
+  #birmingham-carousel .carousel-indicators li {
+    display: inline-block;
+    margin: 0px 5px;
+    width: 15px;
+    height: 15px;
+  }
+  #birmingham-carousel .carousel-indicators li.active {
+    margin: 0px 5px;
+    width: 20px;
+    height: 20px;
+  }
+}
+
+#milton-carousel {
+  padding: 0 10px 30px 10px;
+  margin-top: 30px;
+}
+
+/* Control buttons  */
+#milton-carousel .carousel-control {
+  background: none;
+  color: #222;
+  font-size: 2.3em;
+  text-shadow: none;
+  margin-top: 30px;
+}
+/* Previous button  */
+#milton-carousel .carousel-control.left {
+  left: -12px;
+}
+/* Next button  */
+#milton-carousel .carousel-control.right {
+  right: -12px !important;
+}
+/* Changes the position of the indicators */
+#milton-carousel .carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the color of the indicators */
+#milton-carousel .carousel-indicators li {
+  background: #c0c0c0;
+}
+#milton-carousel .carousel-indicators .active {
+  background: #333333;
+}
+#milton-carousel img {
+  width: 250px;
+  height: 100px;
+}
+
+@media (min-width: 768px) {
+  #milton-carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+  #milton-carousel .carousel-indicators {
+    bottom: -20px !important;
+  }
+  #milton-carousel .carousel-indicators li {
+    display: inline-block;
+    margin: 0px 5px;
+    width: 15px;
+    height: 15px;
+  }
+  #milton-carousel .carousel-indicators li.active {
+    margin: 0px 5px;
+    width: 20px;
+    height: 20px;
+  }
+}
+
+#monumental-carousel {
+  padding: 0 10px 30px 10px;
+  margin-top: 30px;
+}
+
+/* Control buttons  */
+#monumental-carousel .carousel-control {
+  background: none;
+  color: #222;
+  font-size: 2.3em;
+  text-shadow: none;
+  margin-top: 30px;
+}
+/* Previous button  */
+#monumental-carousel .carousel-control.left {
+  left: -12px;
+}
+/* Next button  */
+#monumental-carousel .carousel-control.right {
+  right: -12px !important;
+}
+/* Changes the position of the indicators */
+#monumental-carousel .carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the color of the indicators */
+#monumental-carousel .carousel-indicators li {
+  background: #c0c0c0;
+}
+#monumental-carousel .carousel-indicators .active {
+  background: #333333;
+}
+#monumental-carousel img {
+  width: 250px;
+  height: 100px;
+}
+
+@media (min-width: 768px) {
+  #monumental-carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+  #monumental-carousel .carousel-indicators {
+    bottom: -20px !important;
+  }
+  #monumental-carousel .carousel-indicators li {
+    display: inline-block;
+    margin: 0px 5px;
+    width: 15px;
+    height: 15px;
+  }
+  #monumental-carousel .carousel-indicators li.active {
+    margin: 0px 5px;
+    width: 20px;
+    height: 20px;
+  }
+}
+
+#spiral-carousel {
+  padding: 0 10px 30px 10px;
+  margin-top: 30px;
+}
+
+/* Control buttons  */
+#spiral-carousel .carousel-control {
+  background: none;
+  color: #222;
+  font-size: 2.3em;
+  text-shadow: none;
+  margin-top: 30px;
+}
+/* Previous button  */
+#spiral-carousel .carousel-control.left {
+  left: -12px;
+}
+/* Next button  */
+#spiral-carousel .carousel-control.right {
+  right: -12px !important;
+}
+/* Changes the position of the indicators */
+#spiral-carousel .carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the color of the indicators */
+#spiral-carousel .carousel-indicators li {
+  background: #c0c0c0;
+}
+#spiral-carousel .carousel-indicators .active {
+  background: #333333;
+}
+#spiral-carousel img {
+  width: 250px;
+  height: 100px;
+}
+
+@media (min-width: 768px) {
+  #spiral-carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+  #spiral-carousel .carousel-indicators {
+    bottom: -20px !important;
+  }
+  #spiral-carousel .carousel-indicators li {
+    display: inline-block;
+    margin: 0px 5px;
+    width: 15px;
+    height: 15px;
+  }
+  #spiral-carousel .carousel-indicators li.active {
+    margin: 0px 5px;
+    width: 20px;
+    height: 20px;
+  }
+}
+
+#guardrails-carousel {
+  padding: 0 10px 30px 10px;
+  margin-top: 30px;
+}
+
+/* Control buttons  */
+#guardrails-carousel .carousel-control {
+  background: none;
+  color: #222;
+  font-size: 2.3em;
+  text-shadow: none;
+  margin-top: 30px;
+}
+/* Previous button  */
+#guardrails-carousel .carousel-control.left {
+  left: -12px;
+}
+/* Next button  */
+#guardrails-carousel .carousel-control.right {
+  right: -12px !important;
+}
+/* Changes the position of the indicators */
+#guardrails-carousel .carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the color of the indicators */
+#guardrails-carousel .carousel-indicators li {
+  background: #c0c0c0;
+}
+#guardrails-carousel .carousel-indicators .active {
+  background: #333333;
+}
+#guardrails-carousel img {
+  width: 250px;
+  height: 100px;
+}
+
+@media (min-width: 768px) {
+  #guardrails-carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+  #guardrails-carousel .carousel-indicators {
+    bottom: -20px !important;
+  }
+  #guardrails-carousel .carousel-indicators li {
+    display: inline-block;
+    margin: 0px 5px;
+    width: 15px;
+    height: 15px;
+  }
+  #guardrails-carousel .carousel-indicators li.active {
+    margin: 0px 5px;
+    width: 20px;
+    height: 20px;
+  }
+}
+
+#lobby-carousel {
+  padding: 0 10px 30px 10px;
+  margin-top: 30px;
+}
+
+/* Control buttons  */
+#lobby-carousel .carousel-control {
+  background: none;
+  color: #222;
+  font-size: 2.3em;
+  text-shadow: none;
+  margin-top: 30px;
+}
+/* Previous button  */
+#lobby-carousel .carousel-control.left {
+  left: -12px;
+}
+/* Next button  */
+#lobby-carousel .carousel-control.right {
+  right: -12px !important;
+}
+/* Changes the position of the indicators */
+#lobby-carousel .carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the color of the indicators */
+#lobby-carousel .carousel-indicators li {
+  background: #c0c0c0;
+}
+#lobby-carousel .carousel-indicators .active {
+  background: #333333;
+}
+#lobby-carousel img {
+  width: 250px;
+  height: 100px;
+}
+
+@media (min-width: 768px) {
+  #lobby-carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+  #lobby-carousel .carousel-indicators {
+    bottom: -20px !important;
+  }
+  #lobby-carousel .carousel-indicators li {
+    display: inline-block;
+    margin: 0px 5px;
+    width: 15px;
+    height: 15px;
+  }
+  #lobby-carousel .carousel-indicators li.active {
+    margin: 0px 5px;
+    width: 20px;
+    height: 20px;
+  }
+}
+
+#know-more {
+  color: white;
+}
+
+#know-more:hover {
+  color: black;
+}
